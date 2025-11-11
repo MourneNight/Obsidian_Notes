@@ -1,0 +1,11 @@
+{
+  "mvahaste-meridian@@background-opacity": 0.3,
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-pink-topaz",
+  "blue-topaz-theme@@background-settings-workplace-background-image": true,
+  "blue-topaz-theme@@background-image-settings-switch": false,
+  "blue-topaz-theme@@background-image-settings-command-palette-switch": false,
+  "blue-topaz-theme@@toggle-bg-panel-page": false,
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-material-palenight",
+  "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-custom-option",
+  "blue-topaz-theme@@background-settings-workplace-theme-dark-custom": "url(\"https://w.wallhaven.cc/full/ml/wallhaven-ml3k71.jpg\")"
+}

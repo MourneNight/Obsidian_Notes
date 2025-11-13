@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Git/如何从零同步本地Obsidian至github.md",
+                "file": "Code/C&CPP/小贴士/Gcc命令.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "如何从零同步本地Obsidian至github"
+              "title": "Gcc命令"
             }
           }
         ]
@@ -180,6 +180,11 @@
   },
   "active": "9eacb23dbd63a5e4",
   "lastOpenFiles": [
+    "Computer Science/Git/如何从零同步本地Obsidian至github.md",
+    "Code/C&CPP/小贴士/Gcc命令.md",
+    "Code/C&CPP/小贴士",
+    "Code/C&CPP/Homework 1.1/1/a.out",
+    "Code/C&CPP/Homework 1.1/1/1.1.c",
     "Code/C&CPP/Homework 1.1/2",
     "Code/C&CPP/Homework 1.1/4",
     "Code/C&CPP/Homework 1.1/3",
@@ -187,11 +192,6 @@
     "Code/C&CPP/test.c",
     "Code/C&CPP/ddd&hhh",
     "Code/C&CPP/Homework 1.1",
-    "Code/C&CPP",
-    "Code/CandCPP/ddd&hhh",
-    "Code/CandCPP/Homework 1.1/4",
-    "Code/CandCPP/Homework 1.1/3",
-    "Computer Science/Git/如何从零同步本地Obsidian至github.md",
     "未命名.md"
   ]
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Git/如何从零同步本地Obsidian至github.md",
+                "file": "Computer Science/ArchLinux/配置/Lazyvim背景透明.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "如何从零同步本地Obsidian至github"
+              "title": "Lazyvim背景透明"
             }
           }
         ]
@@ -178,8 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb852608d584821f",
+  "active": "45d5ad56e8463f50",
   "lastOpenFiles": [
+    "Computer Science/Git/如何从零同步本地Obsidian至github.md",
+    "Computer Science/ArchLinux/配置/Lazyvim背景透明.md",
+    "Computer Science/ArchLinux/配置",
     "Computer Science/ProgrammingLanguage/Rust",
     "Computer Science/ArchLinux/Error/无法访问AUR.md",
     "Computer Science/ArchLinux/Error",
@@ -191,9 +194,6 @@
     "Computer Science/ProgrammingLanguage/Ruby/Ebooks&Notes",
     "Computer Science/ProgrammingLanguage/Ruby",
     "Computer Science/ProgrammingLanguage/C&CPP",
-    "Computer Science/ProgrammingLanguage",
-    "未命名",
-    "Computer Science/Git/如何从零同步本地Obsidian至github.md",
     "未命名.md"
   ]
 }

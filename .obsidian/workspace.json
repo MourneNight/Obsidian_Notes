@@ -11,10 +11,14 @@
             "id": "093096268fbaad0f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Git/如何从零同步本地Obsidian至github.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "如何从零同步本地Obsidian至github"
             }
           }
         ]
@@ -174,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63754b9b6b36c058",
+  "active": "093096268fbaad0f",
   "lastOpenFiles": [
     "Computer Science/Git/如何从零同步本地Obsidian至github.md",
     "Computer Science/ArchLinux/Error/无法访问AUR.md",

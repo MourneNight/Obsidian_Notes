@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Lazyvim背景透明"
             }
-          },
-          {
-            "id": "b3883b467968e928",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.10.6"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3883b467968e928",
+  "active": "ec113f61159b9fd1",
   "lastOpenFiles": [
     "Math/宋浩/Notes/隐函数求导对数求导.md",
     "未命名.md",

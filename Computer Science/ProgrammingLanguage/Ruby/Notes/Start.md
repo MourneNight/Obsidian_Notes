@@ -70,9 +70,15 @@ greeter.say_bye
 #获取Greeter对象的方法
 MegaGreeter.instance_methods #包括祖先类定义的方法
 MegaGreeter.instance_methods(false) #不包括祖先类定义的方法
+
+#使用attr_accessor来查看并改变对象变量
+class Greeter
+	attr_accessor :name
+end
 ```
 ***解释***
 MegaGreeter：类名
+initialize：类的构造方法，使用new创建对象时自动调用，常用于初始化对象属性，设置默认值，关键字传递
 @name：实例变量，可供该类中所有方法使用。
-
+attr_accessor：定义了两个新方法，name用于获取值，name=用于设置值
 

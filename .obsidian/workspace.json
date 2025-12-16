@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/ProgrammingLanguage/Ruby/Notes/test.md",
+                "file": "Computer Science/ProgrammingLanguage/Ruby/Notes/Start.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "Start"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "777c195181713107",
@@ -164,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,9 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb852608d584821f",
+  "active": "9b79c97fb966f279",
   "lastOpenFiles": [
-    "Computer Science/ProgrammingLanguage/Ruby/Notes/test.md",
+    "Computer Science/ArchLinux/配置/使用TLP提高续航能力.md",
+    "Computer Science/ProgrammingLanguage/Ruby/Notes/Start.md",
     "Computer Science/ProgrammingLanguage/Kotlin/Notes",
     "Computer Science/ProgrammingLanguage/Kotlin",
     "Computer Science/ProgrammingLanguage/Python/Notes",
@@ -194,7 +197,6 @@
     "Computer Science/ArchLinux/配置/Lazyvim背景透明.md",
     "Math/宋浩/Notes/隐函数求导对数求导.md",
     "Computer Science/ProgrammingLanguage/C&CPP/Ebooks/C Primer Plus 笔记.md",
-    "Computer Science/ArchLinux/配置/使用TLP提高续航能力.md",
     "Computer Science/Git/如何从零同步本地Obsidian至github.md",
     "Computer Science/ArchLinux/未命名/7z命令行.md",
     "Computer Science/ArchLinux/Error/无法访问AUR.md",

@@ -71,4 +71,13 @@
 \c? 或 \C-?    Delete 字符，ASCII 7Fh (DEL)
 \<newline>     续行符（continuation line），表示空字符串（即字符串可以跨多行写，换行处不产生字符）
 ```
+#### Double-Quotes String Literals
+双引号字符串支持**转义序列**和#{...}
+在双引号字符串中使用符号需要用反斜杠
+#{}可以被简写为#
+#### Single-Quoted String Literals
+单引号字符串会禁用插值和转义序列
+只用 <u>\'</u> 和 <u>\\</u> 被允许使用
+反斜杠后字符会被解释为反斜杠和字符本身
+
 

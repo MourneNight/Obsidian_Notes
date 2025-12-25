@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer-Science/ProgrammingLanguage/C&CPP/C_Notes/随机数生成.md",
+                "file": "Computer-Science/ProgrammingLanguage/Ruby/Notes/Ruby in Twenty Minutes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "随机数生成"
+              "title": "Ruby in Twenty Minutes"
             }
           }
         ],
@@ -195,10 +195,10 @@
   },
   "active": "3ac58d4226c840e7",
   "lastOpenFiles": [
+    "Computer-Science/ProgrammingLanguage/C&CPP/C_Notes/随机数生成.md",
     "Code/Test/rand_test",
     "Code/Test/rand_test.c",
     "Computer-Science/Artificial-intelligence/人工智能课程笔记.md",
-    "Computer-Science/ProgrammingLanguage/C&CPP/C_Notes/随机数生成.md",
     "Computer-Science/ProgrammingLanguage/Ruby/Notes/wiki/Literals.md",
     "Computer.md",
     "Computer Science/Pictures/考点.png",
@@ -219,7 +219,6 @@
     "Computer-Science/ProgrammingLanguage/Kotlin/Notes",
     "Computer-Science/ProgrammingLanguage/Kotlin",
     "Computer-Science/ProgrammingLanguage/Python/Notes",
-    "Computer-Science/ProgrammingLanguage/Python",
     "Computer-Science/ArchLinux/配置/Lazyvim背景透明.md",
     "Math/宋浩/Notes/隐函数求导对数求导.md",
     "Computer Science/ProgrammingLanguage/C&CPP/Ebooks/C Primer Plus 笔记.md",

@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "777c195181713107",
@@ -179,8 +178,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63754b9b6b36c058",
+  "active": "e3691bd7d72b41b8",
   "lastOpenFiles": [
+    "Computer-Science/ProgrammingLanguage/Go",
     "Computer-Science/ProgrammingLanguage/Ruby/Notes/Ruby in Twenty Minutes.md",
     "Computer-Science/ProgrammingLanguage/C&CPP/C_Notes/随机数生成.md",
     "Code/Test/rand_test",

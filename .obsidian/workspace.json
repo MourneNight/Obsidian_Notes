@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer-Science/Linux/Document notes.md",
+                "file": "Computer-Science/Linux/一些软件使用/Lazyvim快捷键.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Document notes"
+              "title": "Lazyvim快捷键"
             }
           }
         ]
@@ -180,8 +180,9 @@
   },
   "active": "0e7fda718b3d29a4",
   "lastOpenFiles": [
-    "Computer-Science/Artificial-intelligence/人工智能课程笔记.md",
     "Computer-Science/Linux/Document notes.md",
+    "Computer-Science/Linux/一些软件使用/Lazyvim快捷键.md",
+    "Computer-Science/Artificial-intelligence/人工智能课程笔记.md",
     "Computer-Science/Introduction to Computer Science/Document notes.md",
     "Computer-Science/ProgrammingLanguage/C&CPP/C_Notes/随机数生成.md",
     "Computer-Science/Introduction to Computer Science",

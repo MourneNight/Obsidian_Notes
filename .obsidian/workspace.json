@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3b5347b528df0830",
+        "id": "61a4b0aa50f3b0e8",
         "type": "tabs",
         "children": [
           {
-            "id": "a601841ce8b3fa42",
+            "id": "a1871afedb49af6c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Computer-Science/ProgrammingLanguage/Ruby/Notes/wiki/Literals.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Literals"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 284.5,
+    "collapsed": true
   },
   "right": {
     "id": "777c195181713107",
@@ -160,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a601841ce8b3fa42",
+  "active": "a1871afedb49af6c",
   "lastOpenFiles": [
     "Math/Advanced Mathematics/Document notes.md",
     "Computer-Science/ProgrammingLanguage/C&CPP/C_Notes/随机数生成.md",

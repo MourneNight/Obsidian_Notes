@@ -106,8 +106,13 @@ content for heredoc two
 TWO
 ```
 #### Symbol Literals
-
-
+**Symbol**是ruby中解释器内部的一个名称
+使用冒号来引用符号字面量
+通过插值和转义序列创建一个符号字面量
+单引号可以用来禁止插值和转义序列】
+#### Array Literals
+使用**方括号[]** 来创建一个数组字面量
+数组字面量可以包含表达式
 
 
 

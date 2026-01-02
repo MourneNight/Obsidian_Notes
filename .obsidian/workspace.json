@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer-Science/ProgrammingLanguage/Ruby/Notes/wiki/Literals.md",
+                "file": "Computer-Science/ProgrammingLanguage/Ruby/Notes/Ruby-Syntax/Literals.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5,
-    "collapsed": true
+    "width": 284.5
   },
   "right": {
     "id": "777c195181713107",
@@ -179,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1871afedb49af6c",
+  "active": "cb852608d584821f",
   "lastOpenFiles": [
     "Math/Advanced Mathematics/Document notes.md",
     "Computer-Science/ProgrammingLanguage/C&CPP/C_Notes/随机数生成.md",
@@ -197,7 +196,7 @@
     "Computer-Science/ProgrammingLanguage/Ruby/Notes/Ruby in Twenty Minutes.md",
     "Code/Test/rand_test",
     "Code/Test/rand_test.c",
-    "Computer-Science/ProgrammingLanguage/Ruby/Notes/wiki/Literals.md",
+    "Computer-Science/ProgrammingLanguage/Ruby/Notes/Ruby-Syntax/Literals.md",
     "Computer.md",
     "Computer Science/Pictures/考点.png",
     "Computer-Science/Pictures/kaodian.png",
